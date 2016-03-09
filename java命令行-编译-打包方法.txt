@@ -1,0 +1,8 @@
+C:\Program Files\Java\jdk1.7.0_60\bin\jar.exe
+C:\Program Files\Java\jdk1.7.0_60\bin\javac.exe
+
+±àÒëÃüÁî£º
+"C:\Program Files\Java\jdk1.7.0_60\bin\javac.exe" org\json\*.java
+
+´ò°üÃüÁî£º
+"C:\Program Files\Java\jdk1.7.0_60\bin\jar.exe" -cf ..\test.jar org\json\*.class
